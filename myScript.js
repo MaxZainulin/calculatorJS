@@ -125,6 +125,6 @@ function typeSite() {
     }
 
     let costSum = typeSite(costBuild) + designSite(costDesign) + adaptiveSite(costAdaptive);
-
+    // let adaptiveSum = typeSite(deadlineBuild) + designSite(deadlineDesign) + adaptiveSite(deadlineAdaptive);
 
     alert(name + " Ваш сайт будет стоить: " + costSum)
