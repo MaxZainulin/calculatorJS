@@ -1,3 +1,4 @@
+window.onload = ()=>{
 "use strict"
 
 
@@ -128,3 +129,5 @@ function typeSite() {
     // let adaptiveSum = typeSite(deadlineBuild) + designSite(deadlineDesign) + adaptiveSite(deadlineAdaptive);
 
     alert(name + " Ваш сайт будет стоить: " + costSum)
+    
+}
