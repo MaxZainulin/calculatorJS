@@ -1,6 +1,6 @@
-window.onload = ()=>{
 "use strict"
 
+window.onload = ()=>{
 
 const name = prompt("Пожалуйста, представьтесь?", "Имя");
    alert("Добро пожаловать, " + name);
@@ -129,5 +129,5 @@ function typeSite() {
     // let adaptiveSum = typeSite(deadlineBuild) + designSite(deadlineDesign) + adaptiveSite(deadlineAdaptive);
 
     alert(name + " Ваш сайт будет стоить: " + costSum)
-    
+
 }
