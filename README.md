@@ -1,3 +1,0 @@
-# calculatorJS
-cfddgbfdsgf
-d
